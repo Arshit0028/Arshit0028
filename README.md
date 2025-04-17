@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @Arshit0028
-- 👀 I’m interested in ...javascript
-- 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Arshit0028/Arshit0028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! My name is Arshit, and I am absolutely thrilled to share my journey as a web developer! 🚀 I recently completed my studies at AlmaBetter, where I dove deep into essential languages like JavaScript, HTML, CSS, and Python! 💻✨
+I am a passionate self-learner, always eager to expand my skills and knowledge in web development! I love creating innovative solutions that make a difference! 🌟 I can’t wait to bring my enthusiasm and expertise to exciting projects and collaborate with amazing teams! Let’s create something awesome together! 🎨🙌
